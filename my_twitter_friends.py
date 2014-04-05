@@ -1,3 +1,5 @@
+#there are likely much easier/better ways to do this, but this made sense to me because i am OK at python. do it another way if you prefer 
+
 #the Twitter API was hard, so I opted for Twython: https://twython.readthedocs.org/en/latest/
 
 from twython import Twython
